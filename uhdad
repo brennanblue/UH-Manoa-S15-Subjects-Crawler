@@ -2,8 +2,8 @@
 <!-- OWA_CACHE will timeout in 15 minutes. -->
 <head>
 <META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" type="text/css" title="Default text size" href="//www.hawaii.edu/myuh/availcss/availMAN.css">
-<TITLE>University of Hawaii at Manoa - Spring 2015</TITLE>
+<link rel="stylesheet" type="text/css" title="Default text size" href="//www.hawaii.edu/myuh/availcss/availHIL.css">
+<TITLE>University of Hawaii at Hilo - Spring 2016</TITLE>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript">
 function UpdateTableHeaders() {
@@ -51,14 +51,14 @@ $(window).resize(UpdateTableHeaders);
 <p class="system">
 <A HREF="./avail.classes" class=system_link>University of Hawaii</A>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<A HREF="./avail.classes?i=MAN&t=201530&frames=i" class="no_frames">FRAMES</A>
-<A HREF="http://www.bookstore.hawaii.edu/manoa/SelectTermDept.aspx" TARGET="_blank" class=book_link,
+<A HREF="./avail.classes?i=HIL&t=201630&frames=i" class="no_frames">FRAMES</A>
+<A HREF="http://www.bookstore.hawaii.edu/hilo/SelectTermDept.aspx" TARGET="_blank" class=book_link,
                                     style="color: white; text-decoration: none; float: right">Textbooks/Course Materials</A>
 </p>
 <p class="institution">
-<A HREF="./avail.classes?i=MAN" class=title_link>University of Hawaii at Manoa</A>
+<A HREF="./avail.classes?i=HIL" class=title_link>University of Hawaii at Hilo</A>
 &#149;
-Spring 2015 Class Availability
+Spring 2016 Class Availability
 </p>
 <p class="transfer-info">
 <A HREF="http://www.hawaii.edu/admissions/transfers.html">(UH Transfer Information)</A>
@@ -67,481 +67,238 @@ Spring 2015 Class Availability
 <div class="bodydiv">
 <p style="margin-bottom: 0">
 <b>Subjects offered by 
-<A HREF="./avail.classes?i=MAN">University of Hawaii at Manoa</A>
- for Spring 2015:</b>
+<A HREF="./avail.classes?i=HIL">University of Hawaii at Hilo</A>
+ for Spring 2016:</b>
 </p>
 </div><!-- bodydiv -->
 <div class="columns">
 <div class="leftcolumn">
 <ul class="subjects">
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ACM">Academy for Creative Media (ACM)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=ACC">Accounting (ACC)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ACC">Accounting (ACC)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=AJ">Administration of Justice (AJ)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=AS">Aerospace Studies (AS)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=AGBU">Agricultural Business (AGBU)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=AMST">American Studies (AMST)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=AGEC">Agricultural Economics (AGEC)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ANAT">Anatomy (ANAT)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=AGEN">Agricultural Engineering (AGEN)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ANSC">Animal Science (ANSC)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=AG">Agriculture (AG)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ANTH">Anthropology (ANTH)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=ANSC">Animal Science (ANSC)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ARAB">Arabic (ARAB)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=ANTH">Anthropology (ANTH)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ARCH">Architecture (ARCH)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=AQUA">Aquaculture (AQUA)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ART">Art (ART)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=ART">Art (ART)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ASAN">Asian Studies (ASAN)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=AH">Arts &amp; Humanities (AH)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ASTR">Astronomy (ASTR)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=ASTR">Astronomy (ASTR)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=BIOC">Biochemistry (BIOC)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=BIOL">Biology (BIOL)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=BE">Bioengineering (BE)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=BUS">Business (BUS)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=BIOL">Biology (BIOL)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=CHEM">Chemistry (CHEM)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=BIOM">Biomedical Science (BIOM)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=CHNS">Chinese (CHNS)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=BOT">Botany (BOT)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=COM">Communication (COM)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=BUS">Business (BUS)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=CS">Computer Science (CS)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=BLAW">Business Law (BLAW)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=DNCE">Dance (DNCE)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=CAM">Cambodian (CAM)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=DRAM">Drama &amp; Theatre (DRAM)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=CMB">Cell and Molecular Biology (CMB)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=ECON">Economics (ECON)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=CHAM">Chamorro (CHAM)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=ED">Education (ED)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=CHEM">Chemistry (CHEM)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=KED">Education-Keelikolani (KED)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=CHN">Chinese Language & Literature (CHN)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=ENGR">Engineering, Interdisciplinary (ENGR)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=CEE">Civil & Environmental Engr (CEE)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=ENG">English (ENG)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=COM">Communication (COM)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=ESL">English as a Second Language (ESL)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=CIS">Communication & Info Sciences (CIS)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=ENTO">Entomology (ENTO)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=CSD">Communication Sci & Disorders (CSD)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=ENSC">Environmental Science (ENSC)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=COMG">Communicology (COMG)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=FIL">Filipino (FIL)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=EDCS">Curriculum Studies (EDCS)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=FIN">Finance (FIN)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=DNCE">Dance (DNCE)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=FOR">Forestry (FOR)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=DH">Dental Hygiene (DH)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=GEOG">Geography (GEOG)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=DRB">Developmental & Repro Biology (DRB)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=GEOL">Geology (GEOL)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=DIS">Disability Studies (DIS)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=HAW">Hawaiian (HAW)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=EALL">East Asian Languages & Lit (EALL)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ECON">Economics (ECON)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=EDEA">Educational Administration (EDEA)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=EDEF">Educational Foundations (EDEF)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=EDEP">Educational Psychology (EDEP)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ETEC">Educational Technology (ETEC)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=EE">Electrical Engineering (EE)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ENGR">Engineering, Interdisciplinary (ENGR)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ENG">English (ENG)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ESL">English as a Second Language (ESL)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ELI">English Language Institute (ELI)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ES">Ethnic Studies (ES)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=FMCH">Family Medicine & Comm Health (FMCH)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=FAMR">Family Resources (FAMR)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=FDM">Fashion Design Textiles & Mdsg (FDM)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=FIL">Filipino (FIL)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=FIN">Finance (FIN)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=FSHN">Food Science & Human Nutrition (FSHN)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=FR">French (FR)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=GEOG">Geography (GEOG)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=GG">Geology & Geophysics (GG)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=GERI">Geriatric Medicine (GERI)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=GER">German (GER)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=GHPS">Global Health & Pop Studies (GHPS)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=GRK">Greek (GRK)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=HAW">Hawaiian (HAW)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=HWST">Hawaiian Studies (HWST)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=HNDI">Hindi (HNDI)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=HIST">History (HIST)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=HON">Honors (HON)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=HRM">Human Resources Mgt (HRM)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ILO">Ilokano (ILO)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=IP">Indo-Pacific Languages (IP)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=IND">Indonesian (IND)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ITM">Information Technology Mgt (ITM)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ICS">Information& Computer Sciences (ICS)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ITE">Institute for Teacher Educatn (ITE)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=IS">Interdisciplinary Studies (IS)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=CUL">Internatl Cultural Studies (CUL)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ITAL">Italian (ITAL)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=JPN">Japanese Language & Literature (JPN)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=JOUR">Journalism (JOUR)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=KHAW">Hawaiian Language-Keelikolani (KHAW)</a>
 </li>
 </ul>
 </div>
-<div class="rightcolumn">
+ <div class="rightcolumn">
 <ul class="subjects">
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=KRS">Kinesiology & Rehab Science (KRS)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=HWST">Hawaiian Studies (HWST)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=KOR">Korean (KOR)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=KHWS">Hawaiian Studies-Keelikolani (KHWS)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=LLEA">Lang & Lit Europe & Americas (LLEA)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=HIST">History (HIST)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=LATN">Latin (LATN)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=HORT">Horticulture (HORT)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=LAIS">Latin Amer & Iberian Studies (LAIS)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=KLAN">Indigenous Languages-Keelik (KLAN)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=LAW">Law (LAW)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=KIND">Indigenous Studies-Keelikolani (KIND)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=LWEV">Law-Environmental (LWEV)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=IS">Interdisciplinary Studies (IS)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=LWJT">Law-Journals and Teams (LWJT)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=JPNS">Japanese (JPNS)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=LWLW">Law-Legal Writing (LWLW)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=JPST">Japanese Studies (JPST)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=LWPA">Law-Pacific and Asian (LWPA)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=KES">Kinesiology &amp; Exercise Science (KES)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=LIS">Library & Information Science (LIS)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=KOR">Korean (KOR)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=LING">Linguistics (LING)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=LANG">Languages (LANG)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=MGT">Management (MGT)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=LING">Linguistics (LING)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=MAO">Maori (MAO)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=MGT">Management (MGT)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=MBIO">Marine Biology (MBIO)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=MARE">Marine Science (MARE)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=MKT">Marketing (MKT)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=MKT">Marketing (MKT)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=MATH">Mathematics (MATH)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=MATH">Mathematics (MATH)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ME">Mechanical Engineering (ME)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=MUS">Music (MUS)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=MDED">Medical Education (MDED)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=NRES">Natural Resources (NRES)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=MEDT">Medical Technology (MEDT)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=NURS">Nursing (NURS)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=MED">Medicine (MED)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=PHPS">Pharmaceutical Science (PHPS)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=MET">Meteorology (MET)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=PHPP">Pharmacy Practice (PHPP)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=MICR">Microbiology (MICR)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=PHIL">Philosophy (PHIL)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=MSL">Military Science & Leadership (MSL)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=PHYS">Physics (PHYS)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=MCB">Molecular and Cell Biology (MCB)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=PPTH">Plant Pathology (PPTH)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=MBBE">Molecular Biosci & Bioengr (MBBE)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=POLS">Political Science (POLS)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=MUS">Music (MUS)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=PSY">Psychology (PSY)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=NHH">Native Hawaiian Health (NHH)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=QBA">Quantitative Business Analysis (QBA)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=NREM">Natural Res & Environmtl Mgt (NREM)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=SOC">Sociology (SOC)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=NURS">Nursing (NURS)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=SOIL">Soil Science (SOIL)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=OBGN">Obstetrics & Gynecology (OBGN)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=SPAN">Spanish (SPAN)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ORE">Ocean & Resources Engineering (ORE)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=TOUR">Tourism (TOUR)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=OCN">Oceanography (OCN)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=CBES">Trop Conserv Biol &amp; EnvironSci (CBES)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=PACS">Pacific Islands Studies (PACS)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=UNIV">University (UNIV)</a>
 </li>
 <li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=PATH">Pathology (PATH)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=PACE">Peace and Conflict Education (PACE)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=PED">Pediatrics (PED)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=PERS">Persian (PERS)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=PHRM">Pharmacology (PHRM)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=PHIL">Philosophy (PHIL)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=PHYS">Physics (PHYS)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=PHYL">Physiology (PHYL)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=PEPS">Plant & Environmtl Protect Sci (PEPS)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=POLS">Political Science (POLS)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=PORT">Portuguese (PORT)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=PSTY">Psychiatry (PSTY)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=PSY">Psychology (PSY)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=PUBA">Public Administration (PUBA)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=PH">Public Health (PH)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=PPC">Public Policy Center (PPC)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=RE">Real Estate (RE)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=REL">Religion (REL)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=RUS">Russian (RUS)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=SAM">Samoan (SAM)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=SNSK">Sanskrit (SNSK)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=SLS">Second Language Studies (SLS)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=SOCS">Social Science (SOCS)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=SW">Social Work (SW)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=SOC">Sociology (SOC)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=SPAN">Spanish (SPAN)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=SPED">Special Education (SPED)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=SURG">Surgery (SURG)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=TAHT">Tahitian (TAHT)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=THAI">Thai (THAI)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=THEA">Theatre (THEA)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=TONG">Tongan (TONG)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=TI">Translation & Interpretation (TI)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=TIM">Travel Industry Management (TIM)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=TRMD">Tropical Med & Medcl Micro (TRMD)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=TPSS">Tropical Plant & Soil Sciences (TPSS)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=PLAN">Urban & Regional Planning (PLAN)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=URDU">Urdu (URDU)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=VIET">Vietnamese (VIET)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=WS">Women's Studies (WS)</A>
-</li>
-<li>
-<A HREF="./avail.classes?i=MAN&t=201530&s=ZOOL">Zoology (ZOOL)</A>
+<a href="./avail.classes?i=HIL&t=201630&s=WS">Women's Studies (WS)</a>
 </li>
 </ul>
-</div><!-- rightcolumn -->
+</div>
 </div><!-- to hold columns -->
 <div class="footer"><!-- footer div 1 -->
 <p align="center">
-<A HREF="./avail.classes?i=MAN&t=201530&frames=i">VIEW USING FRAMES</A>
+<A HREF="./avail.classes?i=HIL&t=201630&frames=i">VIEW USING FRAMES</A>
 </p>
 </div><!-- footer div 1 -->
 <div class="footer">
 <hr SIZE="1" WIDTH="100%">
 <p class="copyright">&copy;2015 <a HREF="http://www.hawaii.edu/">University of Hawaii</a></p>
-<p class="updated">Updated: 01/20/2015 05:14:52 AM HST</p>
+<p class="updated">Updated: 11/02/2015 05:14:52 AM HST</p>
 </div>
 </body></html>
